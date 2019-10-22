@@ -6,4 +6,4 @@ https://pedrooberto.github.io/Techno/
 ## Identidade Visual
 
 _Pagina Inicial_
-![Screenshot](/src/assets/Screenshot_Techno.png)
+![Screenshot](/assets/Screenshot_Techno.png)
